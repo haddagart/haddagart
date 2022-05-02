@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💼 What is in my briefcase
-## 🔭 I’m currently working on
-### Artificial Intelligence and Deep Learning Projects:
+## 📆 I’m currently working on
+### 🔭 Artificial Intelligence and Deep Learning Projects:
 #### (03-2022) PhD Project : HAR using Deep Learning and Bio-inspired models
 As part of my PhD project, I am doing research about introducing a novel method to perform human action recognition using deep learning methods, fuzzy logic, and bio-inspired models.
 #### (04-2021) Research project: Hajj surveillance system
 I am working on a project for one of my clients (as a freelancer, consultant) to produce a system that operates in Mecca for automated Hajj surveillance starting from crowd counting, to crowd behavior analysis, and crowd behavior prediction and management.
-### Software & networks engineering:
+### 💿 Software & networks engineering:
 #### (01-2022) FTTH studies
 I work on producing FTTH projects like zoning, DOE, and I perform automation scripting for the same client. I shifted from regular hours to freelance program in order to free up myself for freelancing and working on my PhD project.
-### Design and art
+### 🎨 Design and art
 #### (05-2022) Personal brand
 My personal brand is inspired by the Pharaoh and North African (roots) civilizations and cultures. It expresses my strive for excellence and my deep appreciation for my perfectionism that is part of my thinking idology and personality.
 
