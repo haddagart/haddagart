@@ -3,7 +3,7 @@ I am a 🧑‍🎓 PhD student in Artificial Intelligence at [University of Scie
 
 I tend to have a 🧠 polymath personality with multiple interests that enrich my main stream. I am a multidisciplinary designer, productivity enthusiast, psychology and non-fiction books worm. I love challenges and projects that get me to use both sides of my brain _(i.e. logic and creativity as well)_.
 
-🌟 I (will start blogging) on medium, you can start reading my posts [here](haddagart.medium.com)
+🌟 I (will start blogging) on medium, you can start reading my posts [here](https://haddagart.medium.com)
 
 # 📈 Stats about me
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddagart&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
