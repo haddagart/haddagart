@@ -1,10 +1,13 @@
-### Hi there 👋
+# 👋 Hey there, I am Abdelkader Haddag
+I am a 🧑‍🎓 PhD student in Artificial Intelligence at [University of Sciences and Technoloy Oran - Mohamed Boudiaf](https://www.univ-usto.dz/). 🖥️ I work as a freelancer in software engineering and machine learning. I specialize in computer vision applications and research. I have a special interest in smart medical imaging systems. 🔬 My research in PhD is about **Human Action Recognition using Deep Learning and bio-inspired model** supervised by [Dr. Yedjour H.](https://www.researchgate.net/profile/H-Yedjour-2) as part of [SIMPA lab](https://www.researchgate.net/lab/SIMPA-Signal-Image-Parole-Nacera-Benamrane).
 
+I tend to have a 🧠 polymath personality with multiple interests that enrich my main stream. I am a multidisciplinary designer, productivity enthusiast, psychology and non-fiction books worm. I love challenges and projects that get me to use both sides of my brain _(i.e. logic and creativity as well)_.
+
+# 📈 Stats about me
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haddagart&theme=great-gatsby&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--
-**haddagart/haddagart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **haddagart/haddagart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
