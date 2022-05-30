@@ -6,8 +6,8 @@ I tend to have a 🧠 polymath personality with multiple interests that enrich
 🌟 I (will start blogging) on medium, you can start reading my posts [here](https://haddagart.medium.com)
 
 # 📈 Stats about me
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=haddagart&theme=great-gatsby&show_icons=true" alt="haddag's stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact&langs_count=10" alt="haddag's top langs" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=haddagart&theme=great-gatsby&show_icons=true" alt="haddag's stats" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact&langs_count=10" alt="haddag's top langs" />
 
 <br><br>
 
