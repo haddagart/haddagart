@@ -7,7 +7,7 @@ I tend to have a 🧠 polymath personality with multiple interests that enrich
 
 # 📈 Stats about me
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=haddagart&theme=great-gatsby&show_icons=true" alt="haddag's stats" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact" alt="haddag's top langs" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact" alt="haddag's top langs" />
 
 # 💼 What is in my briefcase
 ## 📆 I’m currently working on
