@@ -11,41 +11,6 @@ I tend to have a 🧠 polymath personality with multiple interests that enrich
 
 <br><br>
 
-# 💼 What is in my briefcase
-## 📆 I’m currently working on
-### 🔭 Artificial Intelligence and Deep Learning Projects:
-#### (03-2022) PhD Project : HAR using Deep Learning and Bio-inspired models
-As part of my PhD project, I am doing research about introducing a novel method to perform human action recognition using deep learning methods, fuzzy logic, and bio-inspired models.
-#### (04-2021) Research project: Hajj surveillance system
-I am working on a project for one of my clients (as a freelancer, consultant) to produce a system that operates in Mecca for automated Hajj surveillance starting from crowd counting, to crowd behavior analysis, and crowd behavior prediction and management.
-### 💿 Software & networks engineering:
-#### (01-2022) FTTH studies
-I work on producing FTTH projects like zoning, DOE, and I perform automation scripting for the same client. I shifted from regular hours to freelance program in order to free up myself for freelancing and working on my PhD project.
-### 🎨 Design and art
-#### (05-2022) Personal brand
-My personal brand is inspired by the Pharaoh and North African (roots) civilizations and cultures. It expresses my strive for excellence and my deep appreciation for my perfectionism that is part of my thinking idology and personality.
-
-## 🪴Currently Learning ...
-* 🌐 JavaScript
-* 🏆 ReactJS
-* 🧠 Deep Learning advanced techniques
-* 🐍 Advanced Python
-
-## 👁️ Vision
-* 👯 I’m looking to _collaborate_ on:
-  - Deep learning projects
-  - UI/UX projects 
-  - Graphic design projects. 
-  - Computer vision projects (especially those related to rendering and post-production of rendered 3D projects).
-* 🤔 I’m looking for _help_ with: 
-  - Custom layers definition using Keras and Tensorflow. 
-  - A roadmap to learn PyTorch.
-  - Interships in research labs across the world.
-* 💬 _Ask_ me about: 
-  - Python 
-  - Deep learning (papers, methods, or implementation)
-  - Computer vision algorithms and methods
-
 # 💳 Get to know me better!
 
 * 📫 How to reach me? Well simple, via: 
@@ -58,6 +23,5 @@ My personal brand is inspired by the Pharaoh and North African (roots) civilizat
 * 🗞️ You can find my papers on (well coming soon): 
   - [ResearchGate](https://www.researchgate.net/profile/Abdelkader-Haddag)
   - [Academia.edu](https://univ-usto.academia.edu/haddagart)
-* 😄 Pronouns: He/Him
 * ⚡ Fun fact: I speak Python, I dream Python. I love learning languages, cooking, and talking to friends.
 * 📘 Currently reading: 13 Things Mentally Strong People Don't Do, By Amy Morin.
