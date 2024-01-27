@@ -1,23 +1,49 @@
-# 👋 Hey there, I am Abdelkader Haddag
-I am a 🧑‍🎓 PhD student in Artificial Intelligence at [University of Sciences and Technoloy Oran - Mohamed Boudiaf](https://www.univ-usto.dz/). 🖥️ I work as a freelancer in software engineering and machine learning. I specialize in computer vision applications and research. I have a special interest in smart medical imaging systems. 🔬 My research in PhD is about **Human Action / Activity Recognition in Videos using Deep Learning and bio-inspired model** supervised by [Dr. Yedjour H.](https://www.researchgate.net/profile/H-Yedjour-2) as part of [SIMPA lab](https://www.researchgate.net/lab/SIMPA-Signal-Image-Parole-Nacera-Benamrane).
+<img src="https://media.licdn.com/dms/image/C4E16AQFQZc99nxpP_w/profile-displaybackgroundimage-shrink_350_1400/0/1656682252780?e=1711584000&v=beta&t=h3e_uhbcYk3CB1BECo1K129UD1sfQ3rbsqlfqzo81zU" alt="Header image"/>
 
-I tend to have a 🧠 polymath personality with multiple interests that enrich my main stream. I am a multidisciplinary designer, productivity enthusiast, psychology, and non-fiction books worm. Furthermore, I love challenges and projects that get me to use both sides of my brain (i.e., logic and creativity as well).
+<hr/><h3 align="center">Hey there 👋 I am Haddag</h3><h1 align="center">👨‍🎓 PhD Student / 💻 Full-Stack Developper / ✏️ Designer</h1><hr/>
 
-🌟 I (will start blogging) on medium, you can start reading my posts [here](https://haddagart.medium.com)
 
-# 📈 Stats about me
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=haddagart&theme=great-gatsby&show_icons=true" alt="haddag's stats" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact&langs_count=10" alt="haddag's top langs" />
+> Currently I am doing a PhD Artificial Intelligence at <a hre="https://www.univ-usto.dz/">University of Sciences and Technoloy of Oran - Mohamed Boudiaf (USTOMB)</a>. Supervised by <a href="https://www.researchgate.net/profile/H-Yedjour-2">Dr. Yedjour H.</a> and affiliated to <a href="https://www.researchgate.net/lab/SIMPA-Signal-Image-Parole-Nacera-Benamrane">SIMPA laboratory</a>. Our current academic research is about <b>Human Action Recognition in Videos using bio-inspired models</b>. I prefer working in Software Engineering, Data Science, and Machine Learning. I specialize in computer vision research and applications.My friends think that I have <i>polymath</i> personality with multiple interests that enrich my main stream. I am a multidisciplinary designer, productivity and psychology enthusiast, non-fiction books worm. Furthermore, I love challenges and projects that get me to use both sides of my brain. I love learning languages, cooking, and talking to friends.
 
-<br><br>
+<br/>
+<hr><h3>💻 MY PROGRAMMING STACK</h3><hr/>
+<div>To be added soon ...</div>
 
-# 💳 Get to know me better!
+<br/>
+<hr><h3>⏲️ CURRENTLY</h3><hr/>
+<table>
+  <tr>
+    <td><b>Working on</b></td>
+    <td>
+        <li>Finishing a paper about HAR</li>
+        <li>Building up my brand</li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Learning</b></td>
+    <td>
+      <li>ReactJS</li>
+      <li>Dart</li>
+      <li>PyTorch (advanced concepts)</li>
+      <li>Blender</li>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Reading</b></td>
+    <td>
+      <li>12 Rules for Life by Jordan B. Peterson</li>
+    </td>
+  </tr>
+</table>
+
+<br/>
+<hr/><h3>🤝 YOU CAN FIND ME ON </h3><hr/>
 <div align="center">
   <table border="0px">
     <tr>
-      <td>Follow me on</td>
-      <td>For scientific collaboration</td>
-      <td>For work get in touch on</td>
+      <td>For content and courses</td>
+      <td>For scientific collaborations</td>
+      <td>For professional collaborations</td>
     </tr>
     <tr>
       <td width="33%">
@@ -26,7 +52,8 @@ I tend to have a 🧠 polymath personality with multiple interests that enrich
           <a href="https://www.facebook.com/haddagart"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
           <a href="https://www.instagram.com/haddagart"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
           <a href="https://www.tiktok.com/@haddagart"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-          <a href="https://www.behance.net/haddagart"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+          <a href="https://www.behance.net/haddagart"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+          <a href="https://haddagart.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
       </td>
       <td width="33%">
         <a href="https://www.researchgate.net/profile/Abdelkader-Haddag"><img src="https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white" alt="ResearchGate"></a>
@@ -39,10 +66,10 @@ I tend to have a 🧠 polymath personality with multiple interests that enrich
       </td>
     </tr>
   </table>
-  
-  
-  
-  
 </div>
-* ⚡ Fun fact: I speak Python, I dream Python. I love learning languages, cooking, and talking to friends.
+
+<br/>
+<hr/><h3>SOME STATS ABOUT MY GIHUB 😅</h3><hr/>
+<img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=haddagart&theme=great-gatsby&show_icons=true" alt="haddag's stats" />
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haddagart&layout=compact&langs_count=10" alt="haddag's top langs" />
 
