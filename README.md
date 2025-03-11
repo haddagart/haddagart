@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/C4E16AQFQZc99nxpP_w/profile-displaybackgroundimage-shrink_350_1400/0/1656682252780?e=1711584000&v=beta&t=h3e_uhbcYk3CB1BECo1K129UD1sfQ3rbsqlfqzo81zU" alt="Header image"/>
+<img src="./assets/images/cover.png" alt="Header image"/>
 
 <hr/><h3 align="center">Hey there 👋 I am Haddag</h3><h1 align="center">👨‍🎓 PhD Student / 💻 Full-Stack Developper / ✏️ Designer</h1><hr/>
 
